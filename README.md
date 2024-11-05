@@ -85,4 +85,6 @@ This project is licensed under the MIT License.
 
 ---
 
-> Developed by Marapatty Anjana
+> Developed by  Anjanana CV
+> 
+
